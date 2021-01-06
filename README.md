@@ -1,0 +1,2 @@
+# my-course-course
+nothing
